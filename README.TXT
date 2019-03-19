@@ -1,7 +1,3 @@
-# Java-SpellCheker-V1
-Spell Checking for bad casing and invalid character duplication
-
-
 ------------------------------------------------------------------------
 This is the project README file. Here, you should describe your project.
 Tell the reader (someone who does not know anything about this project)
@@ -36,5 +32,4 @@ The project assumes the following:
 - bad casing can occur more than one time in the word at any letter, 
 - word can have both casing and duplication errors at the same time
 - If the two possible correct spellings of the word is possible, the function picks first one.
-
 
