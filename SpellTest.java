@@ -71,6 +71,8 @@ public class SpellTest{
         assertEquals("No Correction Found", check.checkWord("abcdefghijklmnop"));
         assertEquals("No Correction Found", check.checkWord("aabcdedfegwgaesbwtfghijklmnop"));
         assertEquals("No Correction Found", check.checkWord("abcd"));
+        assertEquals("Jean-Christophe", check.checkWord("Jean--------Christophe"));
+        assertEquals("Jean-Pierre", check.checkWord("JJJJjjjeaaaan--------PiiiierrRRRrreeee"));
 
     }
 

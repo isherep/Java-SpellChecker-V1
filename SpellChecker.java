@@ -202,6 +202,7 @@ public class SpellChecker{
             for(int i = 1; i < len0; i++) {
                 // matching if the two characters are trepeating                           
                 boolean repeat = Character.toLowerCase(lhs.charAt(i - 1)) == Character.toLowerCase(last);
+                
                 // matching current letters in both strings
                 boolean match = lhs.charAt(i - 1) == rhs.charAt(j - 1);
                 //matching if only the case mismatched character casing needs to be replaced
