@@ -1,20 +1,17 @@
 # Java-SpellCheker-V1
+
 Spell Checking for bad casing and invalid character duplication
 
 
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
-------------------------------------------------------------------------
-
+----------------------------------------------------------------------------------------------------------
 PROJECT TITLE:SpellChecker
 PURPOSE OF PROJECT: Correct the spelling errors such as bad casing and invalid character duplication.
 
-VERSION or DATE:03/16/2018
-HOW TO START THIS PROJECT:
+VERSION or DATE: 03/16/2018
+
 AUTHORS: Iryna Sherepot
------------------------------------------------------------------------------------------
+
+-----------------------------------------------------------------------------------------------------------
 USER INSTRUCTIONS: To use a spellCheck function, please create a new object SpellChecker passing the dictionary file you would like to check words against.
 After dictionary was created, you can spell check word by calling the SpellChecker instance method checkWord(String wordToCheck).
 -----------------------------------------------------------------------------------------
