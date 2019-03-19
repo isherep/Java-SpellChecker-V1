@@ -259,22 +259,6 @@ public class SpellChecker{
 
     public static void main(String[] args) throws IOException{
 
-        SpellChecker mySpell = new SpellChecker("words.txt");
-
-        // Iterator<String> it = dictionary.iterator();
-        System.out.println("Dict size " + mySpell.dictionary.size());
-        System.out.println("File size " + countLinesInTextFile("words.txt"));
-        //String[] words = new String[] {"apple", "Aaaapppplllle"};
-        String[] words = new String[] {"apple", "Apple", "Ample", "ample", "axle", "Axle", "Applee", "AaaaPppplllle"};
-        //String[] words = new String[] {"apple", "appple", "aapple", "applee", "AaaaPpppLllle"};
-        //String[] words = new String[] {"apple", "ample", "appple"};
-        /*for (int i = 0; i < words.length; ++i) {
-        for (int j = 0; j < words.length; ++j) {
-        System.out.println("Distance between " + words[i] + " -> " + words[j] + ": " + mySpell.modifiedLevenshteinDistance(words[i], words[j]));
-        }
-         */
-        System.out.println("imaginableness" == null);
-        //System.out.println(mySpell.checkWord("apple"));
     }
 
 }
