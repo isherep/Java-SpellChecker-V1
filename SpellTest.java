@@ -58,7 +58,7 @@ public class SpellTest{
         SpellChecker check = new SpellChecker("words.txt");
 
         assertEquals("apple",check.checkWord("apple")) ;
-        // assertEquals("Englisher",check.checkWord("Englisher")) ;
+         assertEquals("Englisher",check.checkWord("Englisher")) ;
         assertEquals("Aani",check.checkWord("Aani")) ; 
         assertEquals("imaginableness",check.checkWord("imaginableness")) ;
         assertEquals("phototelegraphically",check.checkWord("phototelegraphically")) ;
