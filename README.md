@@ -7,7 +7,7 @@ Spell Checking for bad casing and invalid character duplication
 PROJECT TITLE:SpellChecker
 PURPOSE OF PROJECT: Correct the spelling errors such as bad casing and invalid character duplication.
 
-VERSION or DATE: 03/16/2018
+VERSION or DATE: 03/16/2019
 
 AUTHORS: Iryna Sherepot
 
