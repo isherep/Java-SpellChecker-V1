@@ -2,10 +2,6 @@
 
 ## Spell Checking for bad casing and invalid character duplication ##
 
-
-----------------------------------------------------------------------------------------------------------
-PROJECT TITLE:SpellChecker
-
 ## PURPOSE OF PROJECT: Correct the spelling errors such as bad casing and invalid character duplication. ##
 ## Correct words such as _'appPPplllLleeeeE' to _'apple'_, _'Millk'_ to _'milk'_ ## 
 
