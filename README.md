@@ -14,8 +14,8 @@ VERSION or DATE: 03/16/2019
 AUTHORS: Iryna Sherepot
 
 
-### USER INSTRUCTIONS: To use a spellCheck function, please create a new object SpellChecker passing the dictionary file you ### would like to check words against.
-### After dictionary was created, you can spell check word by calling the SpellChecker instance method checkWord(String ### wordToCheck). ###
+### USER INSTRUCTIONS: To use a spellCheck function, please create a new object SpellChecker passing the dictionary file you would like to check words against.
+### After dictionary was created, you can spell check word by calling the SpellChecker instance method checkWord(String wordToCheck)
 
 The checkWord() function will  perform two types of corrections on the incoming word and then return the corrected word:
 It fixes bad casing:
