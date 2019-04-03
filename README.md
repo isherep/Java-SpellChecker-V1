@@ -1,7 +1,7 @@
 # Java SpellCheck for bad casing and invalied character duplication
 
-## PURPOSE OF PROJECT: Correct the spelling errors such as bad casing and invalid character duplication. ##
-## Correct words such as _'appPPplllLleeeeE' to _'apple'_, _'Millk'_ to _'milk'_ ## 
+### PURPOSE OF PROJECT: Correct the spelling errors such as bad casing and invalid character duplication. ##
+### Correct words such as _'appPPplllLleeeeE' to _'apple'_, _'Millk'_ to _'milk'_ ## 
 
 VERSION or DATE: 03/16/2019
 
