@@ -1,6 +1,4 @@
-# Java-SpellCheker-V1
-
-## Spell Checking for bad casing and invalid character duplication ##
+# Java SpellCheck for bad casing and invalied character duplication
 
 ## PURPOSE OF PROJECT: Correct the spelling errors such as bad casing and invalid character duplication. ##
 ## Correct words such as _'appPPplllLleeeeE' to _'apple'_, _'Millk'_ to _'milk'_ ## 
